@@ -1,7 +1,7 @@
 #!/usr/bin/env python
-#coding=utf-8
+# coding=utf-8
 
-#save paths
-playListInfoDir="playListInfo/"
-musicInfoDir="musicInfo/"
-mp3Dir="mp3/"
+# save paths
+playListInfoDir = "playListInfo/"
+musicInfoDir = "陈奕迅/"
+mp3Dir = "mp3/"
